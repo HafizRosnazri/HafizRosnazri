@@ -10,5 +10,5 @@
 
 <h1 align="left">Communication language</h1> 
 
-<p align="left">Malay<img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/flags/MY.gif" width="40" height="20" />
+<p align="left">Malay<&nbsp; img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/flags/MY.gif" width="40" height="20" />
 
