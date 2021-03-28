@@ -32,3 +32,7 @@
 <h3 align="center">Programming platform</h3>
 
 <p align="center"><img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/th.png" width="50" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/jn.png" width="50" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/vs.png" width="50" height="47"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/an.png" width="80" height="47"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/ar.png" width="50" height="47"/>
+
+<h3 align="center">Cloud & analytics platform</h3>
+
+<p align="center"><img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/aws.png" width="50" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/ma.png" width="50" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/ibmw.png" width="50" height="47"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/gc.png" width="80" height="47"/>
