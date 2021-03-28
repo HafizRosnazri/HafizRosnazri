@@ -16,5 +16,4 @@
 
 <h1 align="left"></h1> </pre> <h1 align="center">Educational background</h1>
  
-<img align="left" width="130" height="80" src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/UNIMAP-LOGO.png/130/80">
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="right" width="100" height="100" src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/UNIMAP-LOGO.png/100/100"">
