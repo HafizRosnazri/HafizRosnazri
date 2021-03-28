@@ -26,3 +26,4 @@
 <h1 align="left"></h1> </pre> <h1 align="center">Skill & Expertise</h1>
 
 <h3 align="center">Programming languages</h3>
+<p align="center"> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/c.png" width="150" height="100">
