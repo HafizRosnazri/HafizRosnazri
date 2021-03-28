@@ -15,5 +15,5 @@
 <p align="center">Japanese </pre> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/flags/JP.gif" width="40" height="20" />
 
 <h1 align="left"></h1> </pre> <h1 align="center">Educational background</h1>
-
-<p align="left">Universiti Malaysia Perlis (UniMAP) </pre> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/UNIMAP-LOGO.png" width="130" height="80" /> 
+ 
+<img align="left" width="130" height="80" src=https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/UNIMAP-LOGO.png/130/80">
