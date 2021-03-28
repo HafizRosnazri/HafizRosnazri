@@ -26,8 +26,8 @@
 <h1 align="left"></h1> </pre> <h1 align="center">Skill & Expertise</h1>
 
 <h3 align="center">Programming languages</h3>
-<p float="left">
-  <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/c.png" width="50" />
-  <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/cpp.png" width="50" /> 
-  <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/cs.png" width="50" />
+<p float="center">
+  <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/c.png" width="50" height="50"/>
+  <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/cpp.png" width="50" height="50"/> 
+  <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/cs.png" width="50" height="50"/>
 </p>
