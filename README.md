@@ -13,3 +13,5 @@
 <p align="center">Malay </pre> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/flags/MY.gif" width="40" height="20" />
 <p align="center">English <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/flags/UK.gif" width="40" height="20" > </pre> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/flags/US.gif" width="40" height="20" >
 <p align="center">Japanese </pre> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/flags/JP.gif" width="40" height="20" />
+
+<h1 align="left"></h1> </pre> <h1 align="center">Educational background</h1>
