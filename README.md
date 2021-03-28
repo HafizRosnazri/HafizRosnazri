@@ -17,4 +17,5 @@
 <h1 align="left"></h1> </pre> <h1 align="center">Educational background</h1>
  
 <p align="center"> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/UNIMAP-LOGO.png" width="130" height="80"</p> <h3 align="center">Universiti Malaysia Perlis (UniMAP)</h3>
+Bachelor of Electrical Engineering Technology (Robotics and Automation Technology) with Honours
 
