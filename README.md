@@ -18,7 +18,7 @@
  
 
 <p align="left"> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/UNIMAP-LOGO.png" width="130" height="80"</p>
-Universiti Malaysia Perlis
- '''
- UniMAP
- '''
+This is the code you need to align images to the right:
+```
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+```
