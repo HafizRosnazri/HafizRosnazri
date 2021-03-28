@@ -15,3 +15,5 @@
 <p align="center">Japanese </pre> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/flags/JP.gif" width="40" height="20" />
 
 <h1 align="left"></h1> </pre> <h1 align="center">Educational background</h1>
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
