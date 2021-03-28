@@ -27,4 +27,4 @@
 
 <h3 align="center">Programming languages</h3>
 
-<img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/c.png" width="50" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/cpp.png" width="50" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/cs.png" width="50" height="47"/>
+<p align="center"><img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/c.png" width="50" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/cpp.png" width="50" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/cs.png" width="50" height="47"/></p>
