@@ -20,5 +20,5 @@
 <h4 align="center">Bachelor of Electrical Engineering Technology (Robotics and Automation Technology) with Honours</h4>
 <br />
 <p align="center"> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/JMTi-logo.png" width="150" height="100"> <h3 align="center">Japan - Malaysia Technical Institute (JMTi)</h3>
-<h4 align="center">Diploma of Mechatronics Engineering Technology</h4>
+<h4 align="center">Diploma of Mechatronics Engineering Technology
 <h4 align="center">Malaysia Skills Diploma (Level 4) Industrial Automation Engineering Administration</h4>
