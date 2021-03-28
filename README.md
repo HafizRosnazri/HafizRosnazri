@@ -16,4 +16,4 @@
 
 <h1 align="left"></h1> </pre> <h1 align="center">Educational background</h1>
 
-[unimaplogo]: https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/UNIMAP-LOGO.png "Universiti Malaysia Perlis (UniMAP)"
+![alt text](https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/UNIMAP-LOGO.png "Universiti Malaysia Perlis (UniMAP)")
