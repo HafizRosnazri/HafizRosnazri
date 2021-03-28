@@ -8,29 +8,4 @@
 
 <p align="center">Furthermore, my experience in rapid prototyping consists of CAD drafting, 3D printing, reverse engineering, micocontroller programming, PLC programming, wiring, and machining. I am a detail-oriented person with hunger of knowledge on learning new things and colloborate with others.</p>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">Communication Languages</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">Malay</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">English</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Japanese</td>
-  </tr>
-</tbody>
-</table>
+<h1 align="center">Communication language</h1>
