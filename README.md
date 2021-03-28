@@ -35,4 +35,4 @@
 
 <h3 align="center">Cloud & analytics platform</h3>
 
-<p align="center"><img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/aws.png" width="100" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/ma.png" width="130" height="80"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/ibmw.png" width="100" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/gc.png" width="130" height="80"/>
+<p align="center"><img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/aws.png" width="100" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/ma.png" width="130" height="80"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/ibmw.png" width="100" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/gc.png" width="140" height="90"/>
