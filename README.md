@@ -8,7 +8,7 @@
 
 <p align="center">Furthermore, my experience in rapid prototyping consists of CAD drafting, 3D printing, reverse engineering, micocontroller programming, PLC programming, wiring, and machining. I am a detail-oriented person with hunger of knowledge on learning new things and colloborate with others.</p>
 
-<h1 align="left">Communication language</h1>
+<h1 align="left">Communication language</h1> </pre> <h1 align="center">Communication language</h1>
 
 <p align="left">Malay </pre> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/flags/MY.gif" width="40" height="20" />
 <p align="left">English <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/flags/UK.gif" width="40" height="20" > </pre> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/flags/US.gif" width="40" height="20" />
