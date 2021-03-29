@@ -53,3 +53,10 @@
  
 [![Hafizrosnazri's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizrosnazri&theme=dark&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizrosnazri&hafizrosnazri&theme=dark&layout=compact)](https://github.com/hafizrosnazri/github-readme-stats)
+
+<a href="https://github.com/hafizrosnazri/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizrosnazri&theme=dark&hide=contribs,prs" />
+</a>
+<a href="https://github.com/hafizrosnazri/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizrosnazri&hafizrosnazri&theme=dark&layout=compact" />
+</a>
