@@ -51,4 +51,10 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizrosnazri" /> 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizrosnazri&langs_count=8)](https://github.com/hafizrosnazri/github-readme-stats)
+<a href="https://github.com/hafizrosnazri/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hafizrosnazri&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/hafizrosnazri/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hafizrosnazri&repo=convoychat" />
+</a>
+
