@@ -21,8 +21,6 @@
 <p align="center"> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/UNIMAP-LOGO.png" width="130" height="80"> <h3 align="center">Universiti Malaysia Perlis (UniMAP)</h3>
 <p align="center">Bachelor of Electrical Engineering Technology (Robotics and Automation Technology) with Honours</p>
 <br/>
-<br/>
-<br/>
 <p align="center"> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/JMTi-logo.png" width="150" height="100"> <h3 align="center">Japan - Malaysia Technical Institute (JMTi)</h3>
 <p align="center">Diploma of Mechatronics Engineering Technology</p>
 <p align="center">Malaysia Skills Diploma (Level 4) Industrial Automation Engineering Administration</p>
@@ -54,6 +52,9 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizrosnazri&theme=dark" />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hafizrosnazri&theme=dark&hide=contribs,prs" />
 <br/>
+ <br/>
+ <br/>
+ <br/>
 <a href="https://github.com/hafizrosnazri/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizrosnazri&theme=dark&layout=compact" width="500"/>
 </a>
