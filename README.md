@@ -53,8 +53,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hafizrosnazri&theme=dark&hide=contribs,prs" />
 <br/>
  <br/>
- <br/>
- <br/>
 <a href="https://github.com/hafizrosnazri/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizrosnazri&theme=dark&layout=compact" width="500"/>
 </a>
