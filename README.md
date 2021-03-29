@@ -4,6 +4,9 @@
 ### Reach me at:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hafizrosnazri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hafizrosnazri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hafiz_rosnazri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ryuzaki3677) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100008799826019)
+
+![Profile views](https://gpvc.arturio.dev/hafizrosnazri)  
+
 <h1 align="left"></h1> </pre><h1 align="center">About me</h1>
 
 <p align="center">I am an engineering graduates with experience in quality assurance and rapid prototyping. My background in robotics and automation technology taught me a lot about machine learning and artificial intelligence. Regarding on my experience in quality assurance, I had managed a lot of data which consist of defect products data and the reliability test data. From that, I applied and performed the data science process which consist of problem understanding, data mining, data cleaning, data exploration, feature engineering, predictive modeling, and data visualization.</p>
