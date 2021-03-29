@@ -52,9 +52,9 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizrosnazri" /> 
  
 <a href="https://github.com/hafizrosnazri/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hafizrosnazri&repo=github-readme-stats" />
+  <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)" />
 </a>
-<a href="https://github.com/hafizrosnazri/convoychat">
+<a href="https://github.com/hafizrosnazri/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hafizrosnazri&repo=convoychat" />
 </a>
 
