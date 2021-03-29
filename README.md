@@ -51,7 +51,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizrosnazri&theme=dark" 
  
-![Hafizrosnazri's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizrosnazri&theme=dark&hide=contribs,prs) /p>
+![Hafizrosnazri's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizrosnazri&theme=dark&hide=contribs,prs) />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizrosnazri&hafizrosnazri&theme=dark&layout=compact)](https://github.com/hafizrosnazri/github-readme-stats)
 
 /> 
