@@ -40,3 +40,7 @@
 <h3 align="center">Others</h3>
 
 <p align="center"><img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/om.png" width="100" height="40"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/ct.png" width="100" height="60"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/cr.png" width="50" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/sw.png" width="50" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/ac.png" width="50" height="50"/>
+
+<h3 align="center">Reach me</h3>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hafizrosnazri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hafizrosnazri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hafiz_rosnazri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ryuzaki3677)  
