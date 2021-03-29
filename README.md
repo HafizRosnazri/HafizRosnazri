@@ -57,5 +57,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizrosnazri&theme=dark&layout=compact" width="500"/>
 </a>
 
-
-
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=hafizrosnazri&theme=dark" />
