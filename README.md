@@ -52,3 +52,4 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizrosnazri&theme=dark" /> 
  
 ![Hafizrosnazri's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizrosnazri&theme=dark&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hafizrosnazri&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
