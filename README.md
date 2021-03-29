@@ -50,3 +50,5 @@
  <h1 align="left"></h1> </pre><h1 align="center">Github activities</h1>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizrosnazri" /> 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizrosnazri&langs_count=8)](https://github.com/hafizrosnazri/github-readme-stats)
