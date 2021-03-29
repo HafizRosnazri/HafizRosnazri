@@ -49,5 +49,4 @@
  
  <h1 align="left"></h1> </pre><h1 align="center">Github activities</h1>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hafizrosnazri)  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizrosnazri" /> 
