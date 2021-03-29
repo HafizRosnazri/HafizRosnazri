@@ -46,4 +46,6 @@
 
 <p align="center"><img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/om.png" width="100" height="40"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/ct.png" width="100" height="60"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/cr.png" width="50" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/sw.png" width="50" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/ac.png" width="50" height="50"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hafizrosnazri)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+    [![trophy](https://github-profile-trophy.vercel.app/?username=hafizrosnazri)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
