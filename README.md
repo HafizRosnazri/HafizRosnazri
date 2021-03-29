@@ -49,6 +49,6 @@
  
  <h1 align="left"></h1> </pre><h1 align="center">Github activities</h1>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizrosnazri" /> 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizrosnazri&theme=dark" /> 
  
-![Hafizrosnazri's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizrosnazri&hide=contribs,prs)
+![Hafizrosnazri's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizrosnazri&theme=dark&hide=contribs,prs)
