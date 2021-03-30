@@ -20,8 +20,9 @@
 <h1 align="left"></h1> </pre> <h1 align="center">Educational background</h1>
  
 | <br/><p align="center"> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/UNIMAP-LOGO.png" width="130" height="80"> | <h3 align="center">Universiti Malaysia Perlis (UniMAP)</h3><p align="center">Bachelor of Electrical Engineering Technology (Robotics and Automation Technology) with Honours</p> |
-| <br/><p align="center"> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/UNIMAP-LOGO.png" width="130" height="80"> | <h3 align="center">Universiti Malaysia Perlis (UniMAP)</h3><p align="center">Bachelor of Electrical Engineering Technology (Robotics and Automation Technology) with Honours</p> |
 | --- | --- |
+| <br/><p align="center"> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/UNIMAP-LOGO.png" width="130" height="80"> | <h3 align="center">Universiti Malaysia Perlis (UniMAP)</h3><p align="center">Bachelor of Electrical Engineering Technology (Robotics and Automation Technology) with Honours</p> |
+
 <p align="center"> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/edulogo/UNIMAP-LOGO.png" width="130" height="80"> <h3 align="center">Universiti Malaysia Perlis (UniMAP)</h3>
 <p align="center">Bachelor of Electrical Engineering Technology (Robotics and Automation Technology) with Honours</p>
 <br/>
