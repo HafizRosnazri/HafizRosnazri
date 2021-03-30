@@ -25,6 +25,10 @@
 
 <h1 align="left"></h1> </pre> <h1 align="left">Skill & Expertise</h1>
 
+| <h3 align="left">Programming languages</h3> | <h3 align="left">Programming platform</h3> | <h3 align="left">Cloud & analytics platform</h3> | <h3 align="left">Others</h3> |
+| ------------------------------------------- | ------------------------------------------ | ------------------------------------------------ | ---------------------------- |
+|     |     |     |     |
+
 <h3 align="left">Programming languages</h3>
 
 <p align="left"><img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/c.png" width="50" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/cpp.png" width="50" height="50"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/cs.png" width="50" height="47"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/python.png" width="50" height="47"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/html.png" width="50" height="47"/> <img src="https://github.com/hafizrosnazri/hafizrosnazri/blob/master/otherlogo/css.png" width="50" height="47"/></p>
