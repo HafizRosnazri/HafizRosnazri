@@ -7,7 +7,9 @@
 
 <h1 align="left"></h1> </pre><h1 align="left">About me</h1>
 
-<p align="left">Specialize in Robotics & Automation | CAD Drafter | Rapid Prototyping | Data Science, AI Engineering & Cloud Engineering Practitioner.</p>
+<p align="left">A person who is passionate about the development of technology and artificial intelligence with industrial revolution 4.0 readiness. Highly-capable leader which seeks opportunity in every difficulties, having led multiple projects to completion. High capabilities in robotics engineering, machine learning and vision system. Proficient in a range of modern technologies including several programming languages, product design, prototyping, and cloud computing. Having working experience in semiconductor and multi-national modern furniture manufacturing companies.
+![image](https://user-images.githubusercontent.com/66514627/136371428-f894aa66-f337-452f-9a4f-6090fd35ff02.png)
+.</p>
 
 <h1 align="left"></h1> </pre> <h1 align="left">Educational background</h1>
  
