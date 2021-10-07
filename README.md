@@ -7,7 +7,7 @@
 
 <h1 align="left"></h1> </pre><h1 align="left">About me</h1>
 
-<p align="justify">Specialize in Robotics & Automation | CAD Drafter | Rapid Prototyping | Data Science, AI Engineering & Cloud Engineering Practitioner.</p>
+<p align="center">Specialize in Robotics & Automation | CAD Drafter | Rapid Prototyping | Data Science, AI Engineering & Cloud Engineering Practitioner.</p>
 
 <h1 align="left"></h1> </pre> <h1 align="left">Educational background</h1>
  
