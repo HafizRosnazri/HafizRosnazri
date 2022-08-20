@@ -7,7 +7,7 @@
 
 <h1 align="left"></h1> </pre><h1 align="left">About me</h1>
 
-<p align="left">A person who is passionate about the development of technology and artificial intelligence with industrial revolution 4.0 readiness. Highly-capable leader which seeks opportunity in every difficulties, having led multiple projects to completion. Excellent capabilities in robotics engineering, machine learning and vision system. Proficient in a range of modern technologies including several programming languages, product design, prototyping, and cloud computing. Having working experience in semiconductor and multi-national modern furniture manufacturing companies.</p>
+<p align="left">A person who is passionate about the advancement of technology with industrial revolution 4.0 readiness. A highly-capable leader and a team player who seeks for opportunities in every difficulty, having led and being involved in multiple projects to completion. Capable of electrical and electronics engineering, artificial intelligence, and data science tools. Proficient in variety of current technologies, such as programming languages, cloud computing, circuit and product design with high competency in CAD/ECAD software. Prior experience include exposure in multinational semiconductor and manufacturing companies.</p>
 
 <h1 align="left"></h1> </pre> <h1 align="left">Educational background</h1>
  
